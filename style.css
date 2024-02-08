@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  gap: 20px;
+}
+body {
+  background-color: aqua;
+}
